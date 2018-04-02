@@ -5,4 +5,4 @@ Just use the MS Visual Studio to gain access to the application. You`re free to 
 
 ## Website markup:
 
-![alt text](long-line-analysis.png)
+![alt text](long-line-analysis.jpg)
